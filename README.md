@@ -1,2 +1,3 @@
-# anglerfishlife
-A game I created called anglerfish
+## anglerfishlife
+A game I created called anglerfish (:
+Enjoy!
